@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Shit Happens
 -->
 ![Esdras Caleb's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=esdrascaleb&show_icons=true&hide_border=true)
-![Esdras Caleb's Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=esdrascaleb&layout=compact&hide_border=true&hide=c-sharp)
+![Esdras Caleb's Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=esdrascaleb&layout=compact&hide_border=true&hide=c#)
 
 
