@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=esdrascaleb&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=esdrascaleb&size_weight=0.3&count_weight=0.7&exclude_repo=unitytest&layout=compact&hide_border=true)
-
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=esdrascaleb)](https://github.com/anuraghazra/github-readme-stats)
 
