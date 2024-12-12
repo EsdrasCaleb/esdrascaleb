@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: -/-
 - ⚡ Fun fact: Shit Happens
 -->
-![Esdras Caleb's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=esdrascaleb&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Esdras Caleb's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=esdrascaleb&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Esdras Caleb's Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=esdrascaleb&layout=compact&hide_border=true)
+
