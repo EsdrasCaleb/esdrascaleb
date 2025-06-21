@@ -1,12 +1,11 @@
 ### Hi there 👋 Welcome to my GitHub!
 
-I'm a **PhD candidate in Computer Science** at **UFRN**, passionate about programming and open-source contributions.
+I'm **Esdras Caleb**, a **PhD candidate in Computer Science** at **UFRN**, passionate about programming and open-source contributions. I currently work with **LMS platforms** at UFRN. My passion lies in **Game Programming**, and I'm actively learning and exploring this exciting field.
 
-- **Currently:** Focused on my PhD research at UFRN.
-- **Learning:** Actively diving into **Game Programming**.
-- **Collaborate:** Open to **Game Programming** projects.
-- **Expertise:** PHP and Moodle development.
-- **Connect:** Find me on Twitter at [@edrascaleb](https://twitter.com/edrascaleb).
+- 🔭 **Currently:** Focused on my PhD research at UFRN.
+- 🌱 **Learning & Collaborating:** Always eager to explore and contribute to **Game Programming** projects.
+- 💬 **Expertise:** PHP and Moodle development.
+- 📫 **Connect:** Find me on Twitter at [@edrascaleb](https://twitter.com/edrascaleb).
 
 ---
 
