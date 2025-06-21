@@ -10,4 +10,4 @@ I'm **Esdras Caleb**, a **PhD candidate in Computer Science** at **UFRN**, passi
 ---
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=esdrascaleb&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esdrascaleb&size_weight=0.3&count_weight=0.7&exclude=unitytest,defold,moisespeople,sitemusica,cru-logo-generator&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esdrascaleb&size_weight=0.3&count_weight=0.7&exclude=unitytest,defold,edash,esdrascaleb.github.io,moisespeople,sitemusica,cru-logo-generator&layout=compact&hide_border=true)
